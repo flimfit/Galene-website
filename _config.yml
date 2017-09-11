@@ -1,0 +1,17 @@
+# Setup
+title:        Galene
+tagline:      Correcting for physiological motion in functional imaging data
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Sean Warren
+  url:        http://flimfit.org/galene 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
