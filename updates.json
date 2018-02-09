@@ -1,0 +1,16 @@
+{
+   "updates": {
+     "windows": {
+       "open-url": "",
+       "latest-version": "2.0.2",
+       "download-url": "https://storage.googleapis.com/flimfit-downloads/galene/Galene-2.0.2-win64.exe",
+       "changelog": ""
+     },
+     "mac": {
+      "open-url": "",
+      "latest-version": "2.0.2",
+      "download-url": "https://storage.googleapis.com/flimfit-downloads/galene/Galene%202.0.2.dmg",
+      "changelog": ""
+    }
+  }
+ }
